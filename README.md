@@ -1,1 +1,1 @@
-WIP Penguin Chat 3 revival, all audiovisual assets belong to RocketSnail games, this revival is only for archival/educational purposes. Feel free to play the game but the servers will be small lol
+A site i made for reviving some lost penguin chat variants, all audiovisual assets belong to RocketSnail games, this revival is only for archival/educational purposes. Feel free to play the game, its a WIP though and multiplayer is not supported yet, i do plan on adding it in the near future though :)
